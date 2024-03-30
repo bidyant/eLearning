@@ -71,6 +71,23 @@ During the development of this project, I gained valuable experience in various 
 
 Here are some screenshots of the app:
 
+
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 50%; padding: 5px;">
+        <img src="./screenshoots/1-splash.jpg" alt="Splash Screen" width="300" height="600">
+    </div>
+    <div style="flex: 50%; padding: 5px;">
+        <img src="./screenshoots/2-main.jpg" alt="Main activity with grid layout showing different features." width="300" height="600">
+    </div>
+    <!-- Add more images here -->
+</div>
+
+
+
+
+
+
+
 <img src="./screenshoots/1-splash.jpg" alt="Splash Screen" width="300" height="600">
 <img src="./screenshoots/2-main.jpg" alt="Main activity with grid layout showing different features." width="300" height="600">
 <img src="./screenshoots/3-profile.jpg" alt="Profile section with only name, these things will be modified further." width="300" height="600">
