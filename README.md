@@ -78,7 +78,7 @@ Here are some screenshots of the app:
 <img src="./screenshoots/5-topics.jpg" alt="After clicking on StudyMaterials, Formula Sheet, Video Lectures you will be able to select topic." width="300" height="600">
 <img src="./screenshoots/6-sub-topics.jpg" alt="After selecting topics, you will be able to select subtopics." width="300" height="600">
 <img src="./screenshoots/7-notes.jpg" alt="After selecting subtopics pdf file for notes, formula sheet will appear." width="300" height="600">
-<img src="./screenshoots/8-video.jpg" alt="Similarly after selecting subtopic video will be played in full screen." width="300" height="600">
+<img src="./screenshoots/8-video.jpg" alt="Similarly after selecting subtopic video will be played in full screen.">
 <img src="./screenshoots/9-result-before.jpg" alt="This is the result fragment, sample exam test was shown." width="300" height="600">
 <img src="./screenshoots/10-test.jpg" alt="Clicking on Test feature list of test will be shown." width="300" height="600">
 <img src="./screenshoots/11-test-inst.jpg" alt="Here is the all test details." width="300" height="600">
