@@ -71,38 +71,51 @@ During the development of this project, I gained valuable experience in various 
 
 Here are some screenshots of the app:
 
-
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 50%; padding: 5px;">
-        <img src="./screenshoots/1-splash.jpg" alt="Splash Screen" width="300" height="600">
-    </div>
-    <div style="flex: 50%; padding: 5px;">
-        <img src="./screenshoots/2-main.jpg" alt="Main activity with grid layout showing different features." width="300" height="600">
-    </div>
-    <!-- Add more images here -->
-</div>
-
-
-
-
-
-
-
 <img src="./screenshoots/1-splash.jpg" alt="Splash Screen" width="300" height="600">
+<p>Splash Screen</p>
+
 <img src="./screenshoots/2-main.jpg" alt="Main activity with grid layout showing different features." width="300" height="600">
+<p>Main activity with grid layout showing different features.</p>
+
 <img src="./screenshoots/3-profile.jpg" alt="Profile section with only name, these things will be modified further." width="300" height="600">
+<p>Profile section with only name, these things will be modified further.</p>
+
 <img src="./screenshoots/4-menu.jpg" alt="Navigation menu option sync with bottom bar." width="300" height="600">
+<p>Navigation menu option sync with bottom bar.</p>
+
 <img src="./screenshoots/5-topics.jpg" alt="After clicking on StudyMaterials, Formula Sheet, Video Lectures you will be able to select topic." width="300" height="600">
-<img src="./screenshoots/6-sub-topics.jpg" alt="After selecting topics, you will be able to select subtopics." width="300" height="600">
+<p>After clicking on StudyMaterials, Formula Sheet, Video Lectures you will be able to select topic.</p>
+
+<img src="./screenshoots/6-subTopoics.jpg" alt="After selecting topics, you will be able to select subtopics." width="300" height="600">
+<p>After selecting topics, you will be able to select subtopics.</p>
+
 <img src="./screenshoots/7-notes.jpg" alt="After selecting subtopics pdf file for notes, formula sheet will appear." width="300" height="600">
+<p>After selecting subtopics pdf file for notes, formula sheet will appear.</p>
+
 <img src="./screenshoots/8-video.jpg" alt="Similarly after selecting subtopic video will be played in full screen.">
+<p>Similarly after selecting subtopic video will be played in full screen.</p>
+
 <img src="./screenshoots/9-result-before.jpg" alt="This is the result fragment, sample exam test was shown." width="300" height="600">
+<p>This is the result fragment, sample exam test was shown.</p>
+
 <img src="./screenshoots/10-test.jpg" alt="Clicking on Test feature list of test will be shown." width="300" height="600">
+<p>Clicking on Test feature list of test will be shown.</p>
+
 <img src="./screenshoots/11-test-inst.jpg" alt="Here is the all test details." width="300" height="600">
+<p>Here is the all test details.</p>
+
 <img src="./screenshoots/12-question.jpg" alt="Here is the question activity with all Mock test features." width="300" height="600">
+<p>Here is the question activity with all Mock test features.</p>
+
 <img src="./screenshoots/13-review.jpg" alt="Here is the question dialog showing state of each question." width="300" height="600">
+<p>Here is the question dialog showing state of each question.</p>
+
 <img src="./screenshoots/14-score.jpg" alt="After submitting test score will be shown & also you can come to this activity by clicking on the result list." width="300" height="600">
+<p>After submitting test score will be shown & also you can come to this activity by clicking on the result list.</p>
+
 <img src="./screenshoots/15-ans-match.jpg" alt="You can validate your answer on clicking validate button." width="300" height="600">
+<p>You can validate your answer on clicking validate button.</p>
+
 
 ## Installation
 
