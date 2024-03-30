@@ -68,23 +68,24 @@ During the development of this project, I gained valuable experience in various 
 
 
 ## Screenshots
-![Screenshot 1](./screenshoots/1-splash.jpg "Splash Screen")
-![Screenshot 2](./screenshoots/2-main.jpg "Main activity with grid layout showing different features.")
-![Screenshot 3](./screenshoots/3-profile.jpg "Profiel section with only name, these things will be modified further.")
-![Screenshot 4](./screenshoots/4-menu.jpg "Navigation menu option sync with bottom bar.")
-![Screenshot 5](./screenshoots/5-topics.jpg "After clicking on StudyMaterials, Forumla Sheet, Video Leactures you will be able to select topic.")
-![Screenshot 6](./screenshoots/6-sub-topoics.jpg "After selecting topics, you will be able to select subtopics.")
-![Screenshot 7](./screenshoots/7-notes.jpg "After selecting subtopics pdf file for notes, formula sheet will be appear.")
-![Screenshot 8](./screenshoots/8-video.jpg "similarly after selcting subtiopic video will be played in full screen.")
-![Screenshot 9](./screenshoots/9-result-before.jpg "This is the result fragment, sample exam test was shown.")
-![Screenshot 10](./screenshoots/10-test.jpg "Clicking on Test featue list of test will be shown.")
-![Screenshot 11](./screenshoots/11-test-inst.jpg "Here is the all test details.")
-![Screenshot 12](./screenshoots/12-question.jpg "Here is the question activity with all Mock test featues.")
-![Screenshot 13](./screenshoots/13-review.jpg "Here is the question dialog shwoing state of each question")
-![Screenshot 14](./screenshoots/14-score.jpg "Afte submitting test score will be shone & also you can come to this activity by clicking on the result list.")
-![Screenshot 15](./screenshoots/15-ans-match.jpg "You can validate your answer on clicking validate button.")
 
-Here are some Basic features given through screenshoots.
+Here are some screenshots of the app:
+
+<img src="./screenshoots/1-splash.jpg" alt="Splash Screen" width="300" height="600">
+<img src="./screenshoots/2-main.jpg" alt="Main activity with grid layout showing different features." width="300" height="600">
+<img src="./screenshoots/3-profile.jpg" alt="Profile section with only name, these things will be modified further." width="300" height="600">
+<img src="./screenshoots/4-menu.jpg" alt="Navigation menu option sync with bottom bar." width="300" height="600">
+<img src="./screenshoots/5-topics.jpg" alt="After clicking on StudyMaterials, Formula Sheet, Video Lectures you will be able to select topic." width="300" height="600">
+<img src="./screenshoots/6-sub-topics.jpg" alt="After selecting topics, you will be able to select subtopics." width="300" height="600">
+<img src="./screenshoots/7-notes.jpg" alt="After selecting subtopics pdf file for notes, formula sheet will appear." width="300" height="600">
+<img src="./screenshoots/8-video.jpg" alt="Similarly after selecting subtopic video will be played in full screen." width="300" height="600">
+<img src="./screenshoots/9-result-before.jpg" alt="This is the result fragment, sample exam test was shown." width="300" height="600">
+<img src="./screenshoots/10-test.jpg" alt="Clicking on Test feature list of test will be shown." width="300" height="600">
+<img src="./screenshoots/11-test-inst.jpg" alt="Here is the all test details." width="300" height="600">
+<img src="./screenshoots/12-question.jpg" alt="Here is the question activity with all Mock test features." width="300" height="600">
+<img src="./screenshoots/13-review.jpg" alt="Here is the question dialog showing state of each question." width="300" height="600">
+<img src="./screenshoots/14-score.jpg" alt="After submitting test score will be shown & also you can come to this activity by clicking on the result list." width="300" height="600">
+<img src="./screenshoots/15-ans-match.jpg" alt="You can validate your answer on clicking validate button." width="300" height="600">
 
 ## Installation
 
